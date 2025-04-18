@@ -1,0 +1,11 @@
+public class MatematicasPrimaria {
+    public static void main(String[] args) {
+        int a = 5;
+        int b = 3;
+        int c = 2;
+
+        System.out.println("Suma: " + (a + b + c));
+        System.out.println("Resta: " + (a - b - c));
+        System.out.println("Multiplicación: " + (a * b * c));
+        System.out.println("División: " + (a / b / c));
+    }
